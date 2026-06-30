@@ -58,6 +58,7 @@ Currency-Converter-Python/
     ├── Validation 2.png
     └── Validation 3.png
 ```
+---
 
 ## ▶️ How to Run
 
