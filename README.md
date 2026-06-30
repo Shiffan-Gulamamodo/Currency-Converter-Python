@@ -1,4 +1,4 @@
-# 💱 Currency Converter
+# Currency Converter
 
 A simple desktop currency converter built with **Python** and **Tkinter**. This project was completed as part of a **college programming assignment** and demonstrates GUI development, event-driven programming, input validation, and basic currency conversion logic.
 
