@@ -45,16 +45,19 @@ The project was designed for an exchange company scenario where staff needed a s
 ## 📂 Project Structure
 
 ```text
-currency-converter-python/
+Currency-Converter-Python/
 │
-├── currency_converter.py
+├── (GUI) Currency Converter.py
 ├── README.md
-├── images/
-    └── currency_converter.png
-
+│
+└── images/
+    ├── currency_converter.png
+    ├── currency_converter_main.png
+    ├── Different Currency Options.png
+    ├── Validation 1.png
+    ├── Validation 2.png
+    └── Validation 3.png
 ```
-
----
 
 ## ▶️ How to Run
 
