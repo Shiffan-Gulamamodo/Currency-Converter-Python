@@ -6,7 +6,7 @@ A simple desktop currency converter built with **Python** and **Tkinter**. This 
 
 ## 📸 Screenshot
 
-![Currency Converter Screenshot](images/currency_converter.png)
+![Currency Converter Screenshot](images/currency_converter_main.png)
 
 ---
 
