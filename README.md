@@ -8,6 +8,8 @@ A simple desktop currency converter built with **Python** and **Tkinter**. This 
 
 ![Currency Converter Screenshot](images/currency_converter_main.png)
 
+![Currency Converter Screenshot](images/different_currency_options.png)
+
 ---
 
 ## 📖 Overview
