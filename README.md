@@ -67,7 +67,7 @@ Currency-Converter-Python/
 4. Run the application:
 
 ```bash
-python currency_converter.py
+python (GUI) currency_converter.py
 ```
 
 ---
