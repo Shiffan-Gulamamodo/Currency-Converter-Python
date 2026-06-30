@@ -49,13 +49,9 @@ currency-converter-python/
 │
 ├── currency_converter.py
 ├── README.md
-├── .gitignore
-│
 ├── images/
-│   └── currency_converter.png
-│
-└── docs/
-    └── Programming_Assignment.odt
+    └── currency_converter.png
+
 ```
 
 ---
