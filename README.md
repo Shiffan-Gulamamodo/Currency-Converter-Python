@@ -51,11 +51,10 @@ Currency-Converter-Python/
 │
 ├── (GUI) Currency Converter.py
 ├── README.md
-│
 └── images/
     ├── currency_converter.png
     ├── currency_converter_main.png
-    ├── Different Currency Options.png
+    ├── Different_Currency_Options.png
     ├── Validation 1.png
     ├── Validation 2.png
     └── Validation 3.png
